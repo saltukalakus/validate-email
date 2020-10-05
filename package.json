@@ -1,0 +1,28 @@
+{
+  "name": "validate-email",
+  "version": "1.0.0",
+  "description": "How to validate email with Z-Schema",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saltukalakus/validate-email.git"
+  },
+  "keywords": [
+    "test",
+    "email",
+    "validation"
+  ],
+  "author": "Saltuk Alakus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saltukalakus/validate-email/issues"
+  },
+  "homepage": "https://github.com/saltukalakus/validate-email#readme",
+  "dependencies": {
+    "z-schema": "^4.2.3"
+  }
+}
